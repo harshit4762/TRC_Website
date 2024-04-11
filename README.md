@@ -1,2 +1,2 @@
 # Tech Researchers Club
-> This Website is built using HTML, CSS and JS
+> This Website is built using HTML, Tailwind CSS and JS
